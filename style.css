@@ -1,0 +1,96 @@
+body {
+    background: rgb(47, 97, 154);
+    background: linear-gradient(90deg, rgb(13, 200, 233) 0%, rgb(46, 58, 218) 49%, rgb(38, 66, 224) 100%);
+}
+
+.foto_perfil {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    margin: 25px auto;
+}
+
+.descri_nombre {
+    font-size: 12px;
+}
+
+.card-text {
+    font-size: 19px;
+}
+
+.descri_card {
+    margin-top: 1rem;
+    text-align: center;
+    font-size: 17px;
+    font-style: oblique;
+}
+
+.card {
+    height: 35rem;
+    box-shadow: 0px 0px 15px 0px white;
+    opacity: 90%;
+}
+
+#redes-sociales {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 100px;
+    margin: -25px auto;
+}
+
+.line {
+    text-align: center;
+    color: rgb(238, 238, 243);
+}
+
+#redes-sociales img {
+    height: 40px;
+    width: 40px;
+    margin: 0 10px;
+
+}
+
+.accordion-item {
+    background-color: aliceblue;
+}
+
+.aaccordion-body,
+p {
+    color: black;
+    font-size: 15px;
+}
+
+.text_card2_h1 {
+    color: white;
+    margin-top: -34.1rem;
+}
+
+.text_card2_p {
+
+    color: white;
+}
+
+.accordion {
+    margin-top: 5rem;
+    width: 45.5rem;
+}
+
+.fondo_blur {
+    margin-left: -12px;
+    height: 35rem;
+    width: 47rem;
+    border-radius: 1%;
+    box-shadow: 0px 0px 15px 0px white;
+    opacity: 20%;
+    display: flex;
+}
+
+.fondo_sc {
+    height: 35rem;
+    width: 47rem;
+    border-radius: 1%;
+    box-shadow: 0px 0px 15px 0px white;
+
+}
